@@ -1,0 +1,5 @@
+\Terraform\.terraform
+Terraform\.terraform
+.terraform/
+.vscode/
+.idea/
