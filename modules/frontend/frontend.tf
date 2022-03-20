@@ -4,7 +4,7 @@ locals {
   my_loc   = var.my_loc
 }
 
-resource "azurerm_resource_group" "my_rg" {
+resource "azurerm_resource_group" "utsav_rg" {
   name     = local.rg_name
   location = local.my_loc
 }
